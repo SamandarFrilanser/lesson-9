@@ -5,6 +5,105 @@
 body{
     background: url(../img/bacg.jpg) no-repeat center;
     background-size: cover;
+}
+.table{
+    margin: 4rem auto;
+    background-color: #fff;
+    border-radius: 50px;
+    height: 500px;
+    padding: 2rem 3rem;
+}
+.carousel-title{
+    text-transform: uppercase;
+    color: lightseagreen;
+    margin-bottom: 15px;
+    margin-top: 70px;
+}
+.links li{
+    display: inline-block;
+    padding: 10px 15px;
+    border: 1px solid lightseagreen;
+}
+.links li a{
+    text-decoration: none;
+}
+
+.shop-card-desc h5{
+    font-size: 16px;
+    color: lightseagreen;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-bottom: 10px;
+}
+.shop-card-desc h2{
+    letter-spacing: 2px;
+    color: #000;
+    font-size: 30px;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+    font-family: sans-serif;
+}
+.shop-card-desc h3{
+    color: lightseagreen;
+    letter-spacing: 2px;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+.shop-card-desc p{
+    line-height: 1.5;
+    margin-bottom: 60px;
+}
+
+.add_btn{
+    padding: 20px 90px;
+    background-color:lightseagreen;
+    border-radius: 15px;
+    text-decoration: none;
+    color: #fff;
+    text-transform: uppercase;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* *{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: url(../img/bacg.jpg) no-repeat center;
+    background-size: cover;
     
 }
 .table{
@@ -62,4 +161,4 @@ body{
     text-decoration: none;
     text-transform: uppercase;
     color: #fff;
-}
+} */
