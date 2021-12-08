@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: url(../img/bacg.jpg) no-repeat center;
+    background-size: cover;
+    
+}
+.table{
+    margin:4rem auto;
+    background-color: #fff;
+    border-radius: 50px;
+    padding: 3rem 2rem;
+}
+.group-button{
+    margin-top: 95px;
+}
+.group-button-title{
+    text-transform: uppercase;
+    color: lightseagreen;
+    margin-bottom: 10px;
+}
+.btns li{
+    border: 1px solid lightseagreen;
+    padding: 5px 10px;
+    color: lightseagreen;
+    display: inline-block;
+}
+.btns li a{
+    text-decoration: none;
+    color: lightseagreen;
+}
+.shop-title{
+    color: lightseagreen;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-family: serif;
+}
+.shop-title h5 {
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+.shop-title h2{
+    font-size: 30px;
+    margin-bottom: 15px;
+    color: #000;
+}
+.shop-title  h3{
+    font-size: 35px;
+    margin-bottom: 15px;
+}
+.shop-text {
+    line-height: 1.5;
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+.add-btn {
+    padding: 15px 110px;
+    border-radius: 15px;
+    background-color: lightseagreen;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #fff;
+}
